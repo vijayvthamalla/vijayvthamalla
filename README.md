@@ -6,10 +6,12 @@
 
 
 I have 3 years experience as a Data Engineer at Tata Consultancy Services, Client - M&G Plc.
--	Developed data pipelines for preprocessing, cleaning, and extracting meaningful insights from data using ML, resulting in $160,000 savings and 80 man-hours per week
--	Designed visually impactful dashboards and automated data blending pipelines using Tableau, leading to an 8-12% boost in customer satisfaction.
--	Enhanced data quality and performed hyperparameter tuning of predictive models, resulting in a 15-20% accuracy improvement.
--	Optimized SQL queries for approximately 24 reports, improving performance by 50%.
+- Led a team of 3 to develop and implement data driven solutions to improve business outcomes.
+-	Built pipelines for Data preprocessing, Data cleaning, and extracting meaningful information from data using ML and implemented predictive modeling for sales & inventory management resulting in savings of $160,000.
+-	8% customer satisfaction boost by designing visually impactful dashboards of users’ data and automating data blending pipelines using Tableau and AWS.
+-	12-15% improvement in data quality and model performance by hyperparameter tuning and data augmentation of predictive models. 
+-	Automated legacy predictive models using python machine learning models and scripting, reducing manual workload.
+-	Customer retention improved by more than 7% using customer churn predictions and forecasting customer behavior and customer segmentation.
 
 
 Education:
