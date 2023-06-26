@@ -6,12 +6,15 @@
 
 
 I have 3 years experience as a Data Engineer at Tata Consultancy Services, Client - M&G Plc.
-- Led a team of 3 to develop and implement data driven solutions to improve business outcomes.
--	Built pipelines for Data preprocessing, Data cleaning, and extracting meaningful information from data using ML and implemented predictive modeling for sales & inventory management resulting in savings of $160,000.
--	8% customer satisfaction boost by designing visually impactful dashboards of users’ data and automating data blending pipelines using Tableau and AWS.
--	12-15% improvement in data quality and model performance by hyperparameter tuning and data augmentation of predictive models. 
--	Automated legacy predictive models using python machine learning models and scripting, reducing manual workload.
--	Customer retention improved by more than 7% using customer churn predictions and forecasting customer behavior and customer segmentation.
+-	Built pipelines for Data sourcing, Data cleaning, and extracting meaningful information from data using PySpark, SQL, ML and implemented predictive modeling for product-based data resulting in savings of $128,000.
+-	Migrated 4 legacy machine learning models running in excel and batch scripts to python machine learning models reducing manual workload by 12 hours per week.
+-	Designed and implemented a real time processing data pipeline to process semi-structured data by ingesting 100 million+ raw records from various data sources using PySpark, Scala, SQL, pandas in databricks.
+-	Collaborated in the migration of MSSQL Data warehouse architecture to cloud AWS Redshift data warehouse and S3 data lake architecture resulting in 18% faster processing of data and annual savings of $56,000.
+
+-	Used Python, SQL, and Apache Spark to collaborate with 2 other data engineers to create a data ingestion pipeline that improved processing speed of data by 30%.
+-	Worked with client to understand business requirements and translate those business needs into actionable reports by ingesting data from disparate sources like SQL into Tableau, saving 17 hours of manual work each week.
+-	Performed the data analysis and mapping database normalization, performance tuning, query optimization data extraction, transfer, and clean up.
+-	Conducted ETL operations with product data using AWS Glue, stored in S3, Redshift, RDS and DynamoDB. Streamed data ingestion using Kinesis and performed real time analytics using Athena, SQL, and Tableau.
 
 
 Education:
